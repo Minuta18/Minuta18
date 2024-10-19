@@ -1,5 +1,5 @@
 <p align="center">
-![![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=7EF771&background=FF000000&center=true&repeat=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=7EF771&background=FF000000&center=true&repeat=false&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 </p>
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
